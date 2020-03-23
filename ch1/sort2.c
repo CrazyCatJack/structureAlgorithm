@@ -2,7 +2,7 @@
 /*
  * sort2.c
  *
- * Copyright (C) 2020 CrazyCatJack
+ * Copyright (C) 2020 xuri.All rights reserved.
  */
 
 #include <stdio.h>
