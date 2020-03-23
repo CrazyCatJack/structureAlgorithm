@@ -1,3 +1,10 @@
+// SPDX-License-Identifier: GPL-2.0-only
+/*
+ * sort1.c
+ *
+ * Copyright (C) 2020 CrazyCatJack
+ */
+
 #include <stdio.h>
 #define ARRAY_SIZE 1000
 #define MAXKNUM	500
